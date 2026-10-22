@@ -1,6 +1,5 @@
 # ⚖️ ContractIQ — AI Contract Compliance Auditor
 
-> **SWYNEX Technologies Internship — Task 4: Final AI Application**
 
 ContractIQ is an AI-powered contract analysis application designed to help freelancers, independent contractors, consultants, and small businesses quickly review important terms in their contracts.
 
@@ -349,10 +348,6 @@ The project demonstrates:
 * Responsible AI considerations
 
 ---
-
-## 👩‍💻 Internship Project
-
-**SWYNEX Technologies Internship — Task 4**
 
 Project: **ContractIQ — AI Contract Compliance Auditor**
 
